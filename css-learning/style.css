@@ -83,7 +83,7 @@ body {
     width: 50px;
     height: 42px;
     border: 0;
-    background: url(../images/btn.png)
+    background: url(./images/btn.png)
 }
 
 .user {
@@ -102,7 +102,7 @@ body {
 
 .banner .w {
     height: 421px;
-    background: url(../images/banner.png) no-repeat top center;
+    background: url(./images/banner.png) no-repeat top center;
 }
 
 .subnav {
